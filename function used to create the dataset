@@ -6,7 +6,7 @@ import exrex
 
 import re
 import torch
-
+import numpy as np
 
 
 def sequence_creation_without_pattern(length_sequence, pattern):
@@ -152,5 +152,27 @@ print(dataset_input_creation("A[CG]A", 20, 10))
 
 
 print(dataset_output_creation(10))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
