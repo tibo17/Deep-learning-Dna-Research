@@ -152,6 +152,7 @@ for pattern in pattern_list:
         accuracy_evolution_train_epoch = []
 
         accuracy_evolution_test_epoch = []
+        
 
 
 
