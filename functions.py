@@ -18,6 +18,7 @@ def sequence_creation_without_pattern(length_sequence, pattern):
     '''Creation of the sequence string'''
     sequence = ''.join(random.choice("ACGT") for i in range(length_sequence))
 
+    
 
     '''We initialise pattern already here to True'''
     pattern_already_here = True
