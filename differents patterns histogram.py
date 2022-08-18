@@ -25,6 +25,7 @@ accuracy_mean_list = []
 accuracy_std_list = []
 
 for pattern in tqdm(pattern_list):
+    
 
     print('')
     print(f'begining of the training for pattern {pattern}')
