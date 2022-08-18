@@ -38,6 +38,7 @@ list_filters = []
     ## parameters of the neural network
 nb_epochs = 200
 
+
 #the batch size of train set correspond to the number of sample in train set
 
 #the hyper params are fixed and will never change
